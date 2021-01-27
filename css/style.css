@@ -38,6 +38,7 @@ body {
     background-size    : cover;
     background-color   : black;
     background-position: center center;
+    max-width: 1660px;
 }
 
 .header::before {
@@ -1331,6 +1332,10 @@ body {
         width     : 49%;
         height    : auto;
         margin-top: 3px;
+    }
+
+    .inner__travel-block{
+        width: 100%;
     }
 
     .card__trand-desc {
